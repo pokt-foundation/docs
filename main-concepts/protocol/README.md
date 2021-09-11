@@ -4,9 +4,7 @@ description: Protocol Introduction
 
 # ⛓ Protocol
 
-The Pocket Network is comprised of 3 components: Applications, Nodes and the Network Layer. 
-
-TEST: foo bar
+The Pocket Network is comprised of 3 components: Applications, Nodes and the Network Layer.
 
 An Application submits Relays, or API requests meant to be routed to any public database node. Nodes service these Relays, by submitting them to the public databases they are meant for, and sending the response \(if any\) back to the Application. The Network Layer is comprised of all the rules, protocols and finality storage that serve as the backbone of the interactions between Applications and Nodes, including \(but not limited to\), configuration, record tracking, governance and economic policy. 
 

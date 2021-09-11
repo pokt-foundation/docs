@@ -40,7 +40,7 @@
   * [🤑 Maximize your POKT Earnings](paths/node-runner/maximize-your-pokt-earnings.md)
 * [🧙 Shepherd](paths/shepherd/README.md)
   * [Conscious DAppitalism](paths/shepherd/conscious-dappitalism.md)
-* [👩‍🌾 wPOKT Farmer](paths/wpokt-farmer.md)
+* [👩‍�� wPOKT Farmer](paths/wpokt-farmer.md)
 * [🦸 Contributor](paths/contributor.md)
 * [👑 Governor](paths/governor/README.md)
   * [📜 Constitution](https://github.com/pokt-foundation/governance/blob/master/constitution/constitution.md)
