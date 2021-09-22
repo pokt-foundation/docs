@@ -65,7 +65,7 @@
   * [⚖️ Product Comparisons](resources/faq/product-comparisons.md)
 * [🗂 References](resources/references/README.md)
   * [✅ Supported Blockchains](resources/references/supported-blockchains.md)
-  * [🎚 Protocol Parameters](resources/references/protocol-parameters.md)
+  * [�� Protocol Parameters](resources/references/protocol-parameters.md)
   * [🐚 CLI](https://docs.pokt.network/core/specs/cli)
   * [🔟 POKT Denominations](resources/references/pokt-denominations.md)
   * [🌱 Seeds](resources/references/seeds.md)

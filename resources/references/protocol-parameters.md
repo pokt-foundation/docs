@@ -1,4 +1,4 @@
-# 🎚 Protocol Parameters
+# �� Protocol Parameters
 
 ## Off-Chain
 
