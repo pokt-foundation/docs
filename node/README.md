@@ -6,4 +6,7 @@ These details are mostly for "intermediate" node runners, who are familiar with 
 
 Want to understand the economics of running a node before you dive in? Read about [Node Economics](../learn/economics/nodes.md).
 
+If you want to understand how node rewards are calculated, as well as how to maximimze your rewards, read the section on [Understanding Rewards](rewards.md).
+
 For a no-frills quickstart guide, you should head over to the [Pocket Core docs](https://docs.pokt.network/core/).
+
